@@ -1,0 +1,3 @@
+{
+  "extends": ["@w6s/stylelint-config"]
+}
